@@ -9,3 +9,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.myCard{
+    max-width: 20rem;
+}
